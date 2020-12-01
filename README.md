@@ -1,2 +1,2 @@
 # Study
-hings i’ve studied
+Things i’ve studied
