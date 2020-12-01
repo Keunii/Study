@@ -1,0 +1,6 @@
+C:\Users\SN Company\Desktop\GitWorkDirectory\C#_Socket_Example_Study\SocketProgram_Practice\01_201201_EcoClientApplication\bin\Debug\01_201201_EcoClientApplication.exe.config
+C:\Users\SN Company\Desktop\GitWorkDirectory\C#_Socket_Example_Study\SocketProgram_Practice\01_201201_EcoClientApplication\bin\Debug\01_201201_EcoClientApplication.exe
+C:\Users\SN Company\Desktop\GitWorkDirectory\C#_Socket_Example_Study\SocketProgram_Practice\01_201201_EcoClientApplication\bin\Debug\01_201201_EcoClientApplication.pdb
+C:\Users\SN Company\Desktop\GitWorkDirectory\C#_Socket_Example_Study\SocketProgram_Practice\01_201201_EcoClientApplication\obj\Debug\01_201201_EcoClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\SN Company\Desktop\GitWorkDirectory\C#_Socket_Example_Study\SocketProgram_Practice\01_201201_EcoClientApplication\obj\Debug\01_201201_EcoClientApplication.exe
+C:\Users\SN Company\Desktop\GitWorkDirectory\C#_Socket_Example_Study\SocketProgram_Practice\01_201201_EcoClientApplication\obj\Debug\01_201201_EcoClientApplication.pdb
