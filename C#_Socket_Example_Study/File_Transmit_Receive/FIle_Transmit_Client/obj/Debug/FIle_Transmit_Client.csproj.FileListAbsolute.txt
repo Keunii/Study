@@ -1,7 +1,0 @@
-C:\Users\SN Company\source\repos\File_Transmit_Receive\FIle_Transmit_Client\bin\Debug\FIle_Transmit_Client.exe.config
-C:\Users\SN Company\source\repos\File_Transmit_Receive\FIle_Transmit_Client\bin\Debug\FIle_Transmit_Client.exe
-C:\Users\SN Company\source\repos\File_Transmit_Receive\FIle_Transmit_Client\bin\Debug\FIle_Transmit_Client.pdb
-C:\Users\SN Company\source\repos\File_Transmit_Receive\FIle_Transmit_Client\obj\Debug\FIle_Transmit_Client.csprojAssemblyReference.cache
-C:\Users\SN Company\source\repos\File_Transmit_Receive\FIle_Transmit_Client\obj\Debug\FIle_Transmit_Client.csproj.CoreCompileInputs.cache
-C:\Users\SN Company\source\repos\File_Transmit_Receive\FIle_Transmit_Client\obj\Debug\FIle_Transmit_Client.exe
-C:\Users\SN Company\source\repos\File_Transmit_Receive\FIle_Transmit_Client\obj\Debug\FIle_Transmit_Client.pdb

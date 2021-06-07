@@ -1,7 +1,0 @@
-C:\Users\SN Company\Desktop\GitWorkDirectory\C#_Socket_Example_Study\SocketProgram_Practice\00_201201_EcoServerApplication\bin\Debug\00_201201_EcoServerApplication.exe.config
-C:\Users\SN Company\Desktop\GitWorkDirectory\C#_Socket_Example_Study\SocketProgram_Practice\00_201201_EcoServerApplication\bin\Debug\00_201201_EcoServerApplication.exe
-C:\Users\SN Company\Desktop\GitWorkDirectory\C#_Socket_Example_Study\SocketProgram_Practice\00_201201_EcoServerApplication\bin\Debug\00_201201_EcoServerApplication.pdb
-C:\Users\SN Company\Desktop\GitWorkDirectory\C#_Socket_Example_Study\SocketProgram_Practice\00_201201_EcoServerApplication\obj\Debug\00_201201_EcoServerApplication.csprojAssemblyReference.cache
-C:\Users\SN Company\Desktop\GitWorkDirectory\C#_Socket_Example_Study\SocketProgram_Practice\00_201201_EcoServerApplication\obj\Debug\00_201201_EcoServerApplication.csproj.CoreCompileInputs.cache
-C:\Users\SN Company\Desktop\GitWorkDirectory\C#_Socket_Example_Study\SocketProgram_Practice\00_201201_EcoServerApplication\obj\Debug\00_201201_EcoServerApplication.exe
-C:\Users\SN Company\Desktop\GitWorkDirectory\C#_Socket_Example_Study\SocketProgram_Practice\00_201201_EcoServerApplication\obj\Debug\00_201201_EcoServerApplication.pdb

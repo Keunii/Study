@@ -1,7 +1,0 @@
-C:\Users\SN Company\source\repos\File_Transmit_Receive\File_Receive_Server\bin\Debug\File_Receive_Server.exe.config
-C:\Users\SN Company\source\repos\File_Transmit_Receive\File_Receive_Server\bin\Debug\File_Receive_Server.exe
-C:\Users\SN Company\source\repos\File_Transmit_Receive\File_Receive_Server\bin\Debug\File_Receive_Server.pdb
-C:\Users\SN Company\source\repos\File_Transmit_Receive\File_Receive_Server\obj\Debug\File_Receive_Server.csprojAssemblyReference.cache
-C:\Users\SN Company\source\repos\File_Transmit_Receive\File_Receive_Server\obj\Debug\File_Receive_Server.csproj.CoreCompileInputs.cache
-C:\Users\SN Company\source\repos\File_Transmit_Receive\File_Receive_Server\obj\Debug\File_Receive_Server.exe
-C:\Users\SN Company\source\repos\File_Transmit_Receive\File_Receive_Server\obj\Debug\File_Receive_Server.pdb
