@@ -1,0 +1,10 @@
+C:\Users\SN Company\source\repos\P2PMessenger_ShortMessage\01_201202_P2PMessenger_ShortMessage\bin\Debug\01_201202_P2PMessenger_ShortMessage.exe.config
+C:\Users\SN Company\source\repos\P2PMessenger_ShortMessage\01_201202_P2PMessenger_ShortMessage\bin\Debug\01_201202_P2PMessenger_ShortMessage.exe
+C:\Users\SN Company\source\repos\P2PMessenger_ShortMessage\01_201202_P2PMessenger_ShortMessage\bin\Debug\01_201202_P2PMessenger_ShortMessage.pdb
+C:\Users\SN Company\source\repos\P2PMessenger_ShortMessage\01_201202_P2PMessenger_ShortMessage\obj\Debug\01_201202_P2PMessenger_ShortMessage.csprojAssemblyReference.cache
+C:\Users\SN Company\source\repos\P2PMessenger_ShortMessage\01_201202_P2PMessenger_ShortMessage\obj\Debug\_01_201202_P2PMessenger_ShortMessage.Form1.resources
+C:\Users\SN Company\source\repos\P2PMessenger_ShortMessage\01_201202_P2PMessenger_ShortMessage\obj\Debug\_01_201202_P2PMessenger_ShortMessage.Properties.Resources.resources
+C:\Users\SN Company\source\repos\P2PMessenger_ShortMessage\01_201202_P2PMessenger_ShortMessage\obj\Debug\01_201202_P2PMessenger_ShortMessage.csproj.GenerateResource.cache
+C:\Users\SN Company\source\repos\P2PMessenger_ShortMessage\01_201202_P2PMessenger_ShortMessage\obj\Debug\01_201202_P2PMessenger_ShortMessage.csproj.CoreCompileInputs.cache
+C:\Users\SN Company\source\repos\P2PMessenger_ShortMessage\01_201202_P2PMessenger_ShortMessage\obj\Debug\01_201202_P2PMessenger_ShortMessage.exe
+C:\Users\SN Company\source\repos\P2PMessenger_ShortMessage\01_201202_P2PMessenger_ShortMessage\obj\Debug\01_201202_P2PMessenger_ShortMessage.pdb
